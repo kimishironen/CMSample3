@@ -73,9 +73,6 @@
     <Compile Include="IBase.cs" />
     <Compile Include="IFront.cs" />
     <Compile Include="IShell.cs" />
-    <Compile Include="ShellView.xaml.cs">
-      <DependentUpon>ShellView.xaml</DependentUpon>
-    </Compile>
     <Compile Include="ShellViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
