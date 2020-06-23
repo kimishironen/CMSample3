@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:CMSample3"
         mc:Ignorable="d"
         Title="ShellView" Height="450" Width="800">
-
-    <ContentControl x:Name="ActivateItem"/>
+    <Grid>
+        <ContentControl x:Name="ActiveItem"/>
+    </Grid>
 </Window>
